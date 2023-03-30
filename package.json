@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "jhokeDocs",
+  "version": "1.0.0",
+  "description": "docs for my jhokedb connection",
+  "main": "server.js",
+  "repository": "https://github.com/Alufactorer/jhokeDocs.git",
+  "author": "Alim Weber",
+  "license": "MIT"
+}
